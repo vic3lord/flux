@@ -46,6 +46,7 @@ container images and config changes are propagated to the cluster.
 ### Who is using Flux in production
 
 - [ABA English](https://www.abaenglish.com)
+- [Apester](https://apester.com)
 - [APPUiO](https://appuio.ch)
 - [ArangoDB Oasis](https://arangodb.com/managed-service)
 - [Avisi](https://avisi.nl)
